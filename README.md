@@ -1,5 +1,5 @@
 # Hello, we are team "Firestorm"
-
+<img src="https://cdn.discordapp.com/attachments/717756349366141021/821815516439904266/unknown.png" width=1000>
 This is our repo for the sprint - FireDepartment.  
 
 # Installation
