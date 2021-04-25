@@ -862,6 +862,14 @@ section
 	-webkit-text-stroke-width: 0.5px;
     -webkit-text-stroke-color: black;
 }
+.top_item_price a
+{
+	font-size: 25px;
+	font-weight: 400;
+	color: #ffffff;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
 .top_item_text
 {
 	font-size: 20px;
